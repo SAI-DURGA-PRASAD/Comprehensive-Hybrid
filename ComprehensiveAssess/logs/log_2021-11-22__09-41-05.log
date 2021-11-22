@@ -1,0 +1,58 @@
+2021-11-22 09:41:07,105  INFO [main] AddingItemtoCart:22 - Started the Chrome Browser
+ 2021-11-22 09:41:07,252  INFO [main] AddingItemtoCart:59 - Initialized driver successfully
+ 2021-11-22 09:41:18,188  INFO [main] AddingItemtoCart:23 - Total value of product is: Rs. 799
+ 2021-11-22 09:41:23,325  INFO [main] AddingItemtoCart:32 - System added item to cart and entered into CheckoutPage
+ 2021-11-22 09:41:23,326  INFO [main] AddingItemtoCart:40 - End of addingItemtoCart TestCase
+ 2021-11-22 09:41:23,830  INFO [main] AddingItemtoCart:80 - Driver Closed successfully and set to null
+ 2021-11-22 09:41:24,761  INFO [main] AddingItemtoCartWithGiftcard:22 - Started the Chrome Browser
+ 2021-11-22 09:41:24,900  INFO [main] AddingItemtoCartWithGiftcard:59 - Initialized driver successfully
+ 2021-11-22 09:41:37,085  INFO [main] AddingItemtoCartWithGiftcard:28 - Total value of product is: Rs. 844
+ 2021-11-22 09:41:42,223  INFO [main] AddingItemtoCartWithGiftcard:38 - System added item to cart with giftWrap and entered into CheckoutPage
+ 2021-11-22 09:41:42,223  INFO [main] AddingItemtoCartWithGiftcard:46 - End of addingItemtoCartWithGiftWrap testcase
+ 2021-11-22 09:41:42,685  INFO [main] AddingItemtoCartWithGiftcard:80 - Driver Closed successfully and set to null
+ 2021-11-22 09:41:43,663  INFO [main] BirthdayGiftsTest:22 - Started the Chrome Browser
+ 2021-11-22 09:41:43,800  INFO [main] BirthdayGiftsTest:59 - Initialized driver successfully
+ 2021-11-22 09:41:49,984  INFO [main] BirthdayGiftsTest:24 - System successully opened birthdayGifts page
+ 2021-11-22 09:41:49,984  INFO [main] BirthdayGiftsTest:30 - End of BirthdayGifts Testcase
+ 2021-11-22 09:41:50,920  INFO [main] BirthdayGiftsTest:80 - Driver Closed successfully and set to null
+ 2021-11-22 09:41:51,864  INFO [main] CorporateGiftsTest:22 - Started the Chrome Browser
+ 2021-11-22 09:41:51,999  INFO [main] CorporateGiftsTest:59 - Initialized driver successfully
+ 2021-11-22 09:42:01,022  INFO [main] CorporateGiftsTest:25 - System successfully entered the details shown robotCheckNote
+ 2021-11-22 09:42:01,022  INFO [main] CorporateGiftsTest:32 - End of CorporateGifts TestCase
+ 2021-11-22 09:42:01,404  INFO [main] CorporateGiftsTest:80 - Driver Closed successfully and set to null
+ 2021-11-22 09:42:02,366  INFO [main] GiftCardTest:22 - Started the Chrome Browser
+ 2021-11-22 09:42:02,503  INFO [main] GiftCardTest:59 - Initialized driver successfully
+ 2021-11-22 09:42:22,731  INFO [main] GiftCardTest:22 - System clicked on same GiftCard Value as mentioned
+ 2021-11-22 09:42:23,179  INFO [main] GiftCardTest:80 - Driver Closed successfully and set to null
+ 2021-11-22 09:42:24,133  INFO [main] LoginTest:22 - Started the Chrome Browser
+ 2021-11-22 09:42:24,264  INFO [main] LoginTest:59 - Initialized driver successfully
+ 2021-11-22 09:42:28,352  INFO [main] LoginTest:22 - Driver open URL and entered into Landing Page
+ 2021-11-22 09:42:32,505  INFO [main] LoginTest:34 - System successfully entered login details
+ 2021-11-22 09:42:32,505  INFO [main] LoginTest:36 - End of signInTest TestCase
+ 2021-11-22 09:42:34,999  INFO [main] LoginTest:22 - Driver open URL and entered into Landing Page
+ 2021-11-22 09:42:37,200  INFO [main] LoginTest:34 - System successfully entered login details
+ 2021-11-22 09:42:37,200  INFO [main] LoginTest:36 - End of signInTest TestCase
+ 2021-11-22 09:42:37,569  INFO [main] LoginTest:80 - Driver Closed successfully and set to null
+ 2021-11-22 09:42:38,587  INFO [main] PersonalizedgiftsTest:22 - Started the Chrome Browser
+ 2021-11-22 09:42:38,714  INFO [main] PersonalizedgiftsTest:59 - Initialized driver successfully
+ 2021-11-22 09:42:46,588  INFO [main] PersonalizedgiftsTest:21 - System shown the bestselling product
+ 2021-11-22 09:42:46,588  INFO [main] PersonalizedgiftsTest:29 - End of personalizedGifts TestCase
+ 2021-11-22 09:42:47,311  INFO [main] PersonalizedgiftsTest:80 - Driver Closed successfully and set to null
+ 2021-11-22 09:42:48,300  INFO [main] SearchTest:22 - Started the Chrome Browser
+ 2021-11-22 09:42:48,435  INFO [main] SearchTest:59 - Initialized driver successfully
+ 2021-11-22 09:42:54,160  INFO [main] SearchTest:23 - System shown the first book as mentioned
+ 2021-11-22 09:42:59,168  INFO [main] SearchTest:31 - End of searchItem TestCase
+ 2021-11-22 09:42:59,642  INFO [main] SearchTest:80 - Driver Closed successfully and set to null
+ 2021-11-22 09:43:00,649  INFO [main] TestCase1:22 - Started the Chrome Browser
+ 2021-11-22 09:43:00,783  INFO [main] TestCase1:59 - Initialized driver successfully
+ 2021-11-22 09:43:03,755  INFO [main] TestCase1:17 - Driver open URL and entered into Landing Page
+ 2021-11-22 09:43:03,768  INFO [main] TestCase1:22 - Homepage title is validated
+ 2021-11-22 09:43:03,768  INFO [main] TestCase1:29 - End of titleValidation TestCase
+ 2021-11-22 09:43:04,419  INFO [main] TestCase1:80 - Driver Closed successfully and set to null
+ 2021-11-22 09:43:05,392  INFO [main] WhatsNew:22 - Started the Chrome Browser
+ 2021-11-22 09:43:05,532  INFO [main] WhatsNew:59 - Initialized driver successfully
+ 2021-11-22 09:43:11,635  INFO [main] WhatsNew:22 - Desired item found in Whats new page
+ 2021-11-22 09:43:18,599  INFO [main] WhatsNew:28 - System opened the desired item
+ 2021-11-22 09:43:18,599  INFO [main] WhatsNew:37 - End of whatsNew TestCase
+ 2021-11-22 09:43:19,196  INFO [main] WhatsNew:80 - Driver Closed successfully and set to null
+ 

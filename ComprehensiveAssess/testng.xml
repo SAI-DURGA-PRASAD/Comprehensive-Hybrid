@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+         <listener class-name="com.bigsmall.utilities.Listeners"/> 
+ 	</listeners>
+  <test thread-count="10" name="Test">
+    <classes>
+      <class name = "com.bigsmall.runner.AddingItemtoCart"/>
+      <class name = "com.bigsmall.runner.AddingItemtoCartWithGiftcard"/>
+      <class name = "com.bigsmall.runner.BirthdayGiftsTest"/>
+      <class name = "com.bigsmall.runner.CorporateGiftsTest"/>
+      <class name = "com.bigsmall.runner.GiftCardTest"/>
+      <class name = "com.bigsmall.runner.LoginTest"/>
+      <class name = "com.bigsmall.runner.PersonalizedgiftsTest"/>
+      <class name = "com.bigsmall.runner.SearchTest"/>
+      <class name = "com.bigsmall.runner.TestCase1"/>
+      <class name = "com.bigsmall.runner.WhatsNew"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

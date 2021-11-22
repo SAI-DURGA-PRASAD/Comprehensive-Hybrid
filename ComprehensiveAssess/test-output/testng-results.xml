@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-22T04:21:43Z" name="Default suite" finished-at="2021-11-22T04:22:00Z" duration-ms="17345">
+    <groups>
+    </groups>
+    <test started-at="2021-11-22T04:21:43Z" name="Default test" finished-at="2021-11-22T04:22:00Z" duration-ms="17345">
+      <class name="com.bigsmall.runner.AddingItemtoCart">
+        <test-method is-config="true" signature="startup()[pri:0, instance:com.bigsmall.runner.AddingItemtoCart@302f7971]" started-at="2021-11-22T09:51:42Z" name="startup" finished-at="2021-11-22T09:51:43Z" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.bigsmall.runner.AddingItemtoCart@302f7971]" started-at="2021-11-22T09:51:43Z" name="beforeClass" finished-at="2021-11-22T09:51:44Z" duration-ms="1562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="addingItemtoCart()[pri:0, instance:com.bigsmall.runner.AddingItemtoCart@302f7971]" started-at="2021-11-22T09:51:44Z" name="addingItemtoCart" finished-at="2021-11-22T09:52:00Z" duration-ms="15539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingItemtoCart -->
+        <test-method is-config="true" signature="classTeardown()[pri:0, instance:com.bigsmall.runner.AddingItemtoCart@302f7971]" started-at="2021-11-22T09:52:00Z" name="classTeardown" finished-at="2021-11-22T09:52:00Z" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTeardown -->
+        <test-method is-config="true" signature="suiteTeardown()[pri:0, instance:com.bigsmall.runner.AddingItemtoCart@302f7971]" started-at="2021-11-22T09:52:00Z" name="suiteTeardown" finished-at="2021-11-22T09:52:00Z" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTeardown -->
+      </class> <!-- com.bigsmall.runner.AddingItemtoCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
